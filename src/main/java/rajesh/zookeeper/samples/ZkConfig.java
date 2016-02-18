@@ -1,7 +1,7 @@
 package rajesh.zookeeper.samples;
 
 /**
- * Created by nikita on 1/31/16.
+ * Created by rajesh on 1/31/16.
  */
 public class ZkConfig {
 

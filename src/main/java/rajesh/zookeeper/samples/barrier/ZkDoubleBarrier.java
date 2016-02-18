@@ -8,7 +8,7 @@ import java.util.List;
 import java.util.Random;
 
 /**
- * Created by nikita on 1/31/16.
+ * Created by rajesh on 1/31/16.
  */
 public class ZkDoubleBarrier extends ZkBase {
 
